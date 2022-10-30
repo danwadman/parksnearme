@@ -44,14 +44,13 @@ h2 {
 }
 
 .logo {
-  width: 65px;
-  margin-top: -10px;
+  width: 265px;
 }
 
 #contact {
-  background-color: gainsboro;
+  background-color: #14002b;
   border-radius: 25px;
-  color: #000000;
+  color: #ffffff;
 }
 
 .contact-text {
@@ -61,7 +60,7 @@ h2 {
 }
 
 #contact a {
-  color: #000000 !important;
+  color: #ffffff !important;
   white-space: break-spaces;
   display: flex;
   text-align: center;
@@ -638,7 +637,7 @@ _____________________________ */
 footer {
   display: flex;
   text-align: center;
-  background-color: black;
+  background-color: #ffffff;
   color: #ffffff;
   align-items: center;
 }
