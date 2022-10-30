@@ -1,0 +1,9 @@
+/*
+    override styles when printing
+*/
+
+@media print {
+    header, footer, img, .btn {
+        display:none !important;
+    }
+}

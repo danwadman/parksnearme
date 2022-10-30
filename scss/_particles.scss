@@ -1,0 +1,18 @@
+canvas{
+  display:block;
+}
+
+/* ---- particles.js container ---- */
+
+.particles {
+  height:500px;
+}
+
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background-color: #f8f8f8;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
